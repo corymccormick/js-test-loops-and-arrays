@@ -3,8 +3,8 @@
 // input: ['This', 'is', 'a', 'split', 'sentence.']
 // output: ['is', 'a', 'split', 'sentence.', 'This']
 
-function rearranger(arr) {
-}
+function rearranger(arr)
+
 
 
 // ------------------------------------------
@@ -16,6 +16,7 @@ function rearranger(arr) {
 // output: 42
 
 function largestNum(arr) {
+    let
 }
 
 
